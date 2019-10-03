@@ -24,9 +24,13 @@ public class Main {
         else if (20>=number && number>10){
             System.out.println("Most likely");
         }
-       
+        else if  (30>=number && number>20){
+            System.out.println("it is not certain");
         }
-
+        else if (40>=number && number>30){
+            System.out.println("it is very certain");
+        }
+     
 
 
     }
