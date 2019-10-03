@@ -30,7 +30,14 @@ public class Main {
         else if (40>=number && number>30){
             System.out.println("it is very certain");
         }
-     
+        else if (50>=number && number>40){
+            System.out.println("I highly doubt that");
+        }
+        else if (60>=number && number>50){
+            System.out.println("Without a doubt");
+        }
+       
+
 
 
     }
