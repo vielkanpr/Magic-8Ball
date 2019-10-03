@@ -42,7 +42,13 @@ public class Main {
         else if (80>=number && number>70){
             System.out.println("i very clearly see that happening");
         }
-        
+        else if(90>=number && number>80){
+            System.out.println("Signs point to no");
+        }
+        else if (100>=number && number> 90){
+            System.out.println("All the signs point to yes");
+
+        }
 
 
 
