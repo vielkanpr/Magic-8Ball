@@ -36,7 +36,13 @@ public class Main {
         else if (60>=number && number>50){
             System.out.println("Without a doubt");
         }
-       
+        else if (70>=number && number>60){
+            System.out.println("I do not see that happening ");
+        }
+        else if (80>=number && number>70){
+            System.out.println("i very clearly see that happening");
+        }
+        
 
 
 
